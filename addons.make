@@ -1,0 +1,4 @@
+ofxCv
+ofxJSON
+ofxKinect
+ofxOpenCv
