@@ -88,6 +88,7 @@ void ofApp::draw(){
     if(time % 20 == 0){
         ofSetColor(0, 0, 0, 5);
         ofDrawRectangle(0,0, ofGetWidth(), ofGetHeight());
+        ofSetColor(ofRandom(255),ofRandom(255),ofRandom(255),5);
     }
 }
 
